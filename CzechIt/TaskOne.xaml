@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="CzechIt.TaskOne">
+    <ContentPage.Content>
+
+        <StackLayout>
+        <Label x:Name="questionInfo" Text="Сhoose the appropriate letter:" VerticalOptions="Start" HorizontalTextAlignment="Start" Margin="10" TextColor="Black" FontSize="20" FontAttributes="Bold" />
+        <Label x:Name="questionXaml" HorizontalTextAlignment="Start" Margin="10" TextColor="Black" FontSize="50"/>
+        <StackLayout Orientation="Horizontal"  HorizontalOptions="FillAndExpand" VerticalOptions="Fill">
+        <StackLayout Orientation="Vertical"  HorizontalOptions="FillAndExpand">
+            <Button x:Name="first" Clicked="FirstClicked" BackgroundColor="LightPink" Margin="5" CornerRadius="10"></Button>
+            <Button x:Name="second" Clicked="SecondClicked" BackgroundColor="LightPink" Margin="5" CornerRadius="10"></Button>
+            <Button x:Name="skip" Text="Skip" Clicked="SkipClicked" BackgroundColor="LightGray" Margin="5" CornerRadius="10"></Button>
+        </StackLayout>
+        <StackLayout Orientation="Vertical"  HorizontalOptions="FillAndExpand">
+            <Button x:Name="third" Clicked="ThirdClicked" BackgroundColor="LightPink" Margin="5" CornerRadius="10"></Button>
+            <Button x:Name="fourth" Clicked="FouthClicked" BackgroundColor="LightPink" Margin="5" CornerRadius="10"></Button>
+            <Button x:Name="reset" Text="Reset score" Clicked="ResetClicked" BackgroundColor="LightGray" Margin="5" CornerRadius="10"></Button>
+        </StackLayout>
+
+        </StackLayout>
+        <Button x:Name="rightA" Text="Right answer" Clicked="RightAClicked" BackgroundColor="LightGray" Margin="5" CornerRadius="10"></Button>
+        <Label x:Name="scoreXaml" HorizontalTextAlignment="Start" Margin="10" TextColor="Gray" FontSize="50" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="CzechIt.Stats">
+    <ContentPage.Content>
+
+        <StackLayout>
+        <Label x:Name="winrate" Text="Winrate: 100%" VerticalOptions="Fill"  HorizontalTextAlignment = "Start"
+               Margin = "10" TextColor = "Black" FontSize = "30" FontAttributes = "Bold"/>
+        <Label x:Name="score" Text="Score: 0" VerticalOptions="Fill"  HorizontalTextAlignment = "Start"
+               Margin = "10" TextColor = "Black" FontSize = "30" FontAttributes = "Bold"/>
+        <Label x:Name="questionstotal" Text="Total questions: 0" VerticalOptions="Fill"  HorizontalTextAlignment = "Start"
+               Margin = "10" TextColor = "Black" FontSize = "30" FontAttributes = "Bold"/>
+        <Label x:Name="errorstotal" Text="Mistakes: 0" VerticalOptions="Fill"  HorizontalTextAlignment = "Start"
+               Margin = "10" TextColor = "Black" FontSize = "30" FontAttributes = "Bold"/>
+        <Label x:Name="skippedtotal" Text="Skipped: 0" VerticalOptions="Fill"  HorizontalTextAlignment = "Start"
+               Margin = "10" TextColor = "Black" FontSize = "30" FontAttributes = "Bold"/>
+        </StackLayout>
+
+    
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CzechIt.MainPage"
+             Title="CzechIt!">
+
+    <StackLayout>
+
+        <Label Text = "If you want to learn Czech, then you will not find a better application!"
+               VerticalOptions="Fill"  HorizontalTextAlignment = "Start"
+               Margin = "10" TextColor = "Black" FontSize = "30" FontAttributes = "Bold" />
+  
+        <Button Text="Insert a letter" BackgroundColor="LightPink" Margin="5" CornerRadius="10"
+                Clicked="TaskOneClicked" />
+
+        <Button Text="Insert a word" BackgroundColor="LightPink" Margin="5" CornerRadius="10"
+                Clicked="TaskTwoClicked" />
+
+        <Button Text="Translate the word" BackgroundColor="LightPink" Margin="5" CornerRadius="10"
+            
+                Clicked="TaskThreeClicked" />
+
+        <Button Text="Stats" BackgroundColor="LightPink" Margin="5" CornerRadius="10"
+                Clicked="StatsClicked" />
+
+        <Button Text="About" BackgroundColor="LightPink" Margin="5" CornerRadius="10"
+                Clicked="AboutClicked" />
+
+        <Label Text = "Final program 2021 LS | Ruslan Fedoseeenko"
+               HorizontalTextAlignment = "Start" VerticalOptions="EndAndExpand"
+               Margin = "10" TextColor = "Gray" FontSize = "15" FontAttributes = "Bold" />
+
+    </StackLayout>
+
+</ContentPage>

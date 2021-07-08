@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CzechIt.Android", "CzechIt.Android\CzechIt.Android.csproj", "{3CDFE9D0-E98C-4137-A14C-F81A50F55737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CzechIt", "CzechIt\CzechIt.csproj", "{026D7D29-A779-41B8-875B-DF56D6F527B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CDFE9D0-E98C-4137-A14C-F81A50F55737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDFE9D0-E98C-4137-A14C-F81A50F55737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDFE9D0-E98C-4137-A14C-F81A50F55737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDFE9D0-E98C-4137-A14C-F81A50F55737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{026D7D29-A779-41B8-875B-DF56D6F527B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026D7D29-A779-41B8-875B-DF56D6F527B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026D7D29-A779-41B8-875B-DF56D6F527B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026D7D29-A779-41B8-875B-DF56D6F527B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {880F236F-F3FC-41A9-8ACA-110C411767B6}
+	EndGlobalSection
+EndGlobal
