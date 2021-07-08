@@ -2147,11 +2147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rufe/Desktop/CzechIt!/CzechIt.Android/CzechIt.Android.csproj",
+      "projectUniqueName": "/Users/rufe/Desktop/CzechIt/CzechIt.Android/CzechIt.Android.csproj",
       "projectName": "CzechIt.Android",
-      "projectPath": "/Users/rufe/Desktop/CzechIt!/CzechIt.Android/CzechIt.Android.csproj",
+      "projectPath": "/Users/rufe/Desktop/CzechIt/CzechIt.Android/CzechIt.Android.csproj",
       "packagesPath": "/Users/rufe/.nuget/packages/",
-      "outputPath": "/Users/rufe/Desktop/CzechIt!/CzechIt.Android/obj/",
+      "outputPath": "/Users/rufe/Desktop/CzechIt/CzechIt.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2166,8 +2166,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "/Users/rufe/Desktop/CzechIt!/CzechIt/CzechIt.csproj": {
-              "projectPath": "/Users/rufe/Desktop/CzechIt!/CzechIt/CzechIt.csproj"
+            "/Users/rufe/Desktop/CzechIt/CzechIt/CzechIt.csproj": {
+              "projectPath": "/Users/rufe/Desktop/CzechIt/CzechIt/CzechIt.csproj"
             }
           }
         }

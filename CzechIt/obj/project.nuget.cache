@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZUbAvn3zj4tFJ7MNK81WqmiQyP2do7u0maAVMkA0V+WX1VX3JWT9bLUc99GSL0N5lanOI+FXkqrJ74M38+Okiw==",
+  "dgSpecHash": "HhKtwWq3DsoVSYw4Z77Mt63iqucL2/1LYin3aX9sx0Ib/AdYkaaSLHITn0rzUqtHTWq8ZxgwPbOA6jJ5BV3deQ==",
   "success": true,
-  "projectFilePath": "/Users/rufe/Desktop/CzechIt!/CzechIt/CzechIt.csproj",
+  "projectFilePath": "/Users/rufe/Desktop/CzechIt/CzechIt/CzechIt.csproj",
   "expectedPackageFiles": [
     "/Users/rufe/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/rufe/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OXuZ+9CozjrJMNDUSxhbxbfYayp81cwkUqRyWhCTGdni7qUmJcRBjXfp1bpawRS/0g35lkeZpWXS8T3dfL3v9Q==",
+  "dgSpecHash": "15lYDxrYwQU2VL2edAxHtaBTtM5IafsrHjfvDKXiCnGIG0iPq45GEOyno+OOkqXmKXnrlQrQhjP1cl6tsTXurg==",
   "success": true,
-  "projectFilePath": "/Users/rufe/Desktop/CzechIt!/CzechIt.Android/CzechIt.Android.csproj",
+  "projectFilePath": "/Users/rufe/Desktop/CzechIt/CzechIt.Android/CzechIt.Android.csproj",
   "expectedPackageFiles": [
     "/Users/rufe/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/rufe/.nuget/packages/xamarin.androidx.activity/1.1.0.5/xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

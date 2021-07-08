@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rufe/Desktop/CzechIt!/CzechIt/CzechIt.csproj": {}
+    "/Users/rufe/Desktop/CzechIt/CzechIt/CzechIt.csproj": {}
   },
   "projects": {
-    "/Users/rufe/Desktop/CzechIt!/CzechIt/CzechIt.csproj": {
+    "/Users/rufe/Desktop/CzechIt/CzechIt/CzechIt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rufe/Desktop/CzechIt!/CzechIt/CzechIt.csproj",
+        "projectUniqueName": "/Users/rufe/Desktop/CzechIt/CzechIt/CzechIt.csproj",
         "projectName": "CzechIt",
-        "projectPath": "/Users/rufe/Desktop/CzechIt!/CzechIt/CzechIt.csproj",
+        "projectPath": "/Users/rufe/Desktop/CzechIt/CzechIt/CzechIt.csproj",
         "packagesPath": "/Users/rufe/.nuget/packages/",
-        "outputPath": "/Users/rufe/Desktop/CzechIt!/CzechIt/obj/",
+        "outputPath": "/Users/rufe/Desktop/CzechIt/CzechIt/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rufe/.config/NuGet/NuGet.Config"
