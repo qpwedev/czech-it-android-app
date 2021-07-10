@@ -1,5 +1,5 @@
 # CzechIt Android App
-<img src="https://telegra.ph/file/9e71f933a950f062ffd17.png">
+<img src="https://telegra.ph/file/3e798a9c9cfded73c6b99.jpg">
 
 ### First year, summer 2021, Programming 2
 
@@ -20,7 +20,7 @@ The app supports **three** modes:
 3. Translate the word
 
 ## Program structure
-<img src="https://telegra.ph/file/090dcb0ff04b1f29d2868.jpg">
+<img src="https://telegra.ph/file/b3169f2624c6928553219.png">
 
 The application is built on the concept of windows. At the start, the user is greeted by the **main menu** and **5 buttons**. Each button leads to a **new page** that opens on top of the **previous one**. Each mode takes data from QuestionsClass and displays the corresponding data to the user.
 
