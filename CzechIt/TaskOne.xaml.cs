@@ -14,7 +14,7 @@ namespace CzechIt {
 
         public static string[] RequestQuestion() {
             string[] lines;
-            string[] splitedLine = { "", "", "", "", "", "", "" };
+            string[] splitedLine = new string[7];
 
             lines = QuestionsClass.Text.Split('\n');
 
